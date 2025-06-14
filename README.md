@@ -1,12 +1,5 @@
 # Linear Regression for CPU Performance
 
-**Tiny Project**  
-**Author:** Cao Đăng Trí  
-**Student ID:** 10423112  
-**Project Type:** Individual
-
----
-
 ## Project Description
 
 This project builds a simple linear regression model to predict CPU performance (PRP - Published Relative Performance) based on hardware attributes. The entire implementation is done from scratch in C++ using self-made classes for `Vector`, `Matrix`, and `LinearSystem`.
